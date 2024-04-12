@@ -285,7 +285,7 @@ header .head {
 }
 
 .body .google-icon {
-    margin-top: 1.8em;
+    margin-top: 1.1em;
     width: 100%;
     display: flex;
     gap: 50px;
@@ -319,4 +319,18 @@ header .head {
 
 .foot span p {
     margin-top: .2em;
+}
+
+.body .span {
+  
+    border-bottom: 1px solid lightgrey;
+}
+
+.body .or {
+    width: 100%;
+    z-index: 99;
+    color: lightgrey;
+    text-align: center;
+    margin-top: 1.2em;
+
 }
